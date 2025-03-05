@@ -1,0 +1,31 @@
+from datetime impot datetime
+def get_movie_title(movie:str)
+
+	if movie == "":
+		return 'invalid input':
+	return 'valid'
+
+
+def get_date(current_date)
+	current_date = datetime.now().strftime('%y-%m-%d)
+
+
+def get_time(time:)
+
+current_time = datetime.now().strftime('%H:%M')
+
+
+
+
+def get_movie_rate()
+	if  not rate.isdigit() :
+		return 'invalid input'
+	if rate <= 0 && rate > 5:
+		return 'invalid input'
+	retrn 'valid input'
+
+def main()
+	moivie_collection = {}
+
+		if choice == "1"
+			
